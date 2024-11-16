@@ -1,5 +1,5 @@
 import React from "react";
-import Article from "../Article/Article";
+import Article from "./components/Article/Article";
 
 function ArticleList({ posts }) {
   return (
